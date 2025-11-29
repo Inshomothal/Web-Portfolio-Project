@@ -1,2 +1,8 @@
 # Steps and tracking files to ignore
-Steps-to-deploy.md
+
+# Jekyll
+docs/_site
+docs/.sass-cache
+docs/.jekyll-cache
+docs/.jekyll-metadata
+docs/vendor
