@@ -1,3 +1,10 @@
+---
+id: ly1vqwzaakanvgygnw8xrrd
+title: Steps to Deploy
+desc: ''
+updated: 1766392486359
+created: 1766392486359
+---
 # GitHub Pages + Jekyll Portfolio Quickstart
 
 ## Repo prep
