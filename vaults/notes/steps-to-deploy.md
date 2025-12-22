@@ -1,10 +1,11 @@
 ---
-id: ly1vqwzaakanvgygnw8xrrd
+id: pgurz4vqquvwfn1sjomfmf5
 title: Steps to Deploy
 desc: ''
-updated: 1766392486359
+updated: 1766396848184
 created: 1766392486359
 ---
+
 # GitHub Pages + Jekyll Portfolio Quickstart
 
 ## Repo prep
@@ -33,9 +34,9 @@ bundle exec jekyll serve
 
 ## Progress
 - [x] Remote set up with Pages
-- [ ] Installed Ruby
-- [ ] Bundler
-- [ ] Jekyll
-- [ ] In repo root: `jekyll new . --skip-bundle`
-- [ ] Set `_config.yml`
-- [ ] Skeleton page
+- [x] Installed Ruby
+- [x] Bundler
+- [x] Jekyll
+- [x] In repo root: `jekyll new . --skip-bundle`
+- [x] Set `_config.yml`
+- [x] Skeleton page

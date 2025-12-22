@@ -1,10 +1,11 @@
 ---
-id: 4vafvuprljkbvtu2ukago5v
+id: dixjiy18z9seb234jteidwj
 title: Web3 Portfolio Plan
 desc: ''
 updated: 1766392360521
 created: 1766392234931
 ---
+
 
 # Web3 / Full‑Stack Portfolio Plan (2025–2028)
 
